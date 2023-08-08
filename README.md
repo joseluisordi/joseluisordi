@@ -1,4 +1,8 @@
-### Hi there 👋
+### 📫 How to reach me:
+
+- Mail: joseluisordi.trabajo@gmail.com
+- Linkedin: https://www.linkedin.com/in/joseluisordi/
+
 
 <!--
 **joseluisordi/joseluisordi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
